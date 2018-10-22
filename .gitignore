@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+/static
+.DS_Store
+python
+djangovenv/
+db.sqlite3
